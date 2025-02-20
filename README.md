@@ -45,12 +45,12 @@ The workshop is structured in branches, each representing a different stage of d
 - Expo development environment (for React Native)
   - iOS toolchain for testing on iOS
   - Android toolchain for testin on Android
-- AWS Account (for AWS)
+- AWS Account configured on the device.
 
 ### Installation
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone
 cd smart-sous-chef
 ```
 
@@ -71,10 +71,18 @@ git checkout auth
 # etc.
 ```
 
+The flow is as follows:
+
+1. starter
+2. auth
+3. storage
+4. ai
+5. data
+6. main
+
 ## Technologies Used
-- React Native
-- Expo
 - AWS Amplify
+- Expo (A React Native framework)
 - TypeScript
 
 ## License
