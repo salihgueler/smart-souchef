@@ -57,15 +57,6 @@ cd smart-sous-chef
 2. Install dependencies
 ```bash
 npm install
-# or
-yarn install
-```
-
-3. Start the development server
-```bash
-npm start
-# or
-yarn start
 ```
 
 ### Workshop Steps
@@ -77,7 +68,6 @@ git checkout starter
 2. Follow along with the workshop, switching branches as needed to see the progression:
 ```bash
 git checkout auth
-git checkout data-layer
 # etc.
 ```
 
@@ -87,8 +77,5 @@ git checkout data-layer
 - AWS Amplify
 - TypeScript
 
-## Contributing
-This project is designed for workshop purposes. If you find any issues or have suggestions for improvements, please open an issue in the repository.
-
 ## License
-MIT
+MIT-0
