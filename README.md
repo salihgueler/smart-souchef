@@ -5,6 +5,8 @@ This project serves as a companion for a workshop that demonstrates the progress
 
 ## Adding Auth Capabilities
 
+AWS Amplify uses Amazon Cognito to provide authentication services.
+
 For adding Auth capabilities, we will work with the `resource.ts` file under the `amplify/auth` subfolder. If we deploy the file as it is right now, we will get a auth setup with email sign up. However, we can also expand the capabilities of the auth flow. Update the `resource.ts` file with the following code:
 
 ```ts
