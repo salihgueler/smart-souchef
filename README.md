@@ -85,5 +85,12 @@ The flow is as follows:
 - Expo (A React Native framework)
 - TypeScript
 
+### Cleaning Up Resources
+Make sure to cleanup the resources after you are done with the workshop. You can delete your project over AWS Console and you can remove the sandbox with the following command:
+
+```bash
+npx ampx sandbox delete -y
+```
+
 ## License
 MIT-0
