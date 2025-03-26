@@ -1,5 +1,6 @@
 # Smart Sous Chef Workshop
 
+
 ## Overview
 This project serves as a companion for a workshop that demonstrates the progression from a basic mocked application to a fully functional Smart Sous Chef app. Each step of development is captured in different branches, allowing participants to follow along and understand the evolution of the application.
 
@@ -84,6 +85,14 @@ The flow is as follows:
 - AWS Amplify
 - Expo (A React Native framework)
 - TypeScript
+
+## Moving forward
+
+In this workshop you can use AWS Amplify docs or Q CLI (an agentic CLI tool) to implement more complex scenarios. 
+
+| AWS Amplify | Q CLI |
+|----------|----------|
+| <img width="200" alt="image" src="https://github.com/user-attachments/assets/fa9fb3ed-a5fb-4da7-b6df-d1f4d54706a7" />   |  <img width="200" alt="image" src="https://github.com/user-attachments/assets/4052cbfe-455e-4588-9e55-8c5f62d81dcb"/>  |
 
 ### Cleaning Up Resources
 Make sure to cleanup the resources after you are done with the workshop. You can delete your project over AWS Console and you can remove the sandbox with the following command:
